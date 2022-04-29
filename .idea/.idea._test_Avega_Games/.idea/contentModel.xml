@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\_GREENGOBLINALEX_UNITY_PROJECTS\_test_Avega_Games" t="IncludeRecursive">
+      <e p="_test_Avega_Games.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_GAME" t="Include">
+          <e p="Audio" t="Include">
+            <e p="AudioFeature.cs" t="Include" />
+          </e>
+          <e p="Characters" t="Include">
+            <e p="BulletRefs.cs" t="Include" />
+            <e p="CharactersFeature.cs" t="Include" />
+            <e p="CharactersSettings.cs" t="Include" />
+            <e p="CollisionLogic.cs" t="Include" />
+            <e p="CubeRefs.cs" t="Include" />
+            <e p="EnemyMoveAndAttackLogic.cs" t="Include" />
+            <e p="EnemyRefs.cs" t="Include" />
+            <e p="EnemySpawnLogic.cs" t="Include" />
+            <e p="PlayerHealthLogic.cs" t="Include" />
+            <e p="PlayerRefs.cs" t="Include" />
+            <e p="ShootingLogic.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="CollisionCatcher.cs" t="Include" />
+            <e p="FPSDisplay.cs" t="Include" />
+            <e p="LevelBlockGismos.cs" t="Include" />
+            <e p="ObjectTapCatcher.cs" t="Include" />
+            <e p="Point3dGismos.cs" t="Include" />
+            <e p="RandomHelper.cs" t="Include" />
+            <e p="SpriteTapCatcher.cs" t="Include" />
+          </e>
+          <e p="Levels" t="Include">
+            <e p="LevelRefs.cs" t="Include" />
+            <e p="LevelsFeature.cs" t="Include" />
+          </e>
+          <e p="LevelView" t="Include">
+            <e p="LevelViewFeature.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MFPSC" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="FP_Player_Inspector.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="FP_CameraLook.cs" t="Include" />
+              <e p="FP_Classes.cs" t="Include" />
+              <e p="FP_Controller.cs" t="Include" />
+              <e p="FP_FastTurn.cs" t="Include" />
+              <e p="FP_FootSteps.cs" t="Include" />
+              <e p="FP_Input.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="FP_Button.cs" t="Include" />
+              <e p="FP_Joystick.cs" t="Include" />
+              <e p="FP_Lookpad.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Temp" t="Include">
+            <e p="WeaponExample.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DemiLib" t="Include">
+              <e p="Core" t="Include">
+                <e p="DemiLib.xml" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="DemiEditor.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="DOTweenPro" t="Include">
+              <e p="DOTweenAnimation.cs" t="Include" />
+              <e p="DOTweenDeAudio.cs" t="Include" />
+              <e p="DOTweenDeUnityExtended.cs" t="Include" />
+              <e p="DOTweenProShortcuts.cs" t="Include" />
+              <e p="DOTweenTextMeshPro.cs" t="Include" />
+              <e p="DOTweenTk2d.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DOTweenAnimationInspector.cs" t="Include" />
+                <e p="DOTweenPreviewManager.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="readme_DOTweenPro.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\green\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\green\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\__test_Avega_Games.-1274514045.00" t="ExcludeRecursive" />
+  </component>
+</project>
